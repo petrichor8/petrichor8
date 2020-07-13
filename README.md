@@ -1,6 +1,6 @@
 <!--![chill out man](https://imgur.com/j74Nt8g.jpg)-->
 
-![What a Hole!](https://imgur.com/oCRFSV4.gif)
+![What a Hole](https://i.imgur.com/oCRFSV4.gif)
 
 <!--
 **petrichor8/petrichor8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
