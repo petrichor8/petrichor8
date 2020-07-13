@@ -1,4 +1,4 @@
-![chill out man](j74Nt8g.jpg)
+![chill out man](/8ixhsaG.png)
 
 <!--
 **petrichor8/petrichor8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
